@@ -1,2 +1,8 @@
 .DS_Store
 node_modules
+.env
+cache
+artifacts
+coverage
+coverage.json
+typechain-types
